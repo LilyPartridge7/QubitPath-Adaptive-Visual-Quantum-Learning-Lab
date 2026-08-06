@@ -61,7 +61,7 @@ By completing QubitPath, learners will be able to:
 
 ## 8. Screenshots Section
 
-> **Notice for Repository Owner:** Replace the image placeholder paths below with actual screenshots of your deployed application before final submission.
+
 
 | Landing Page & Hero | 3D Bloch Sphere & State Vector |
 | :---: | :---: |
@@ -76,7 +76,7 @@ By completing QubitPath, learners will be able to:
 ## 9. Live-Demo Placeholder
 - **GitHub Repository:** `https://github.com/LilyPartridge7/QubitPath-Adaptive-Visual-Quantum-Learning-Lab`
 - **Live Application URL (GitHub Pages):** `https://lilypartridge7.github.io/QubitPath-Adaptive-Visual-Quantum-Learning-Lab/`
-- **Demonstration Video:** `[INSERT VIDEO LINK HERE - 5-10 Minute Demo Video]`
+- **Demonstration Video:** 
 
 ---
 
