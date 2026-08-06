@@ -1,0 +1,23 @@
+# WISER Summer Program 2026 Submission Checklist
+
+- [x] Working frontend application built with React, TypeScript, and Vite.
+- [x] Four scaffolded learning modules (Bits to Qubits, Gates, Measurement, Entanglement).
+- [x] Quantum simulator engine supporting 1 and 2 qubits with complex math and state vector normalization.
+- [x] Pre-assessment (8 questions) and post-assessment (8 questions).
+- [x] Adaptive diagnostic misconception feedback engine.
+- [x] Interactive Quantum Playground with 1Q/2Q canvas and example circuit presets.
+- [x] Local progress persistence via `LocalStorage` with Demo Data toggle.
+- [x] Educator Analytics summary page.
+- [x] High-contrast responsive quantum-laboratory dark UI.
+- [x] 15/15 unit tests passing via Vitest.
+- [x] Production build clean pass (`npm run build`).
+- [x] Complete README containing all 29 required sections.
+- [x] Technical report (`docs/technical-report.md`).
+- [x] Educational methodology (`docs/educational-methodology.md`).
+- [x] User guide (`docs/user-guide.md`).
+- [x] Evaluation plan (`docs/evaluation-plan.md`).
+- [x] Limitations & future work (`docs/limitations-and-future-work.md`).
+- [x] Demo video script (`docs/demo-video-script.md`).
+- [x] Presentation outline (`docs/presentation-outline.md`).
+- [x] AI-use disclosure (`docs/ai-use-disclosure.md`).
+- [x] LICENSE (MIT), TEAM.md, CONTRIBUTING.md, and ATTRIBUTIONS.md.
